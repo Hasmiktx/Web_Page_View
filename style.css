@@ -17,13 +17,7 @@ body{
 }
     
 
-/* #line-example-1 {
-    height: 200px;
-    max-width: 400px;
-    margin: 0 auto;
-    background-color: #f6f6f6;
-  } */
-  
+
 .text{
     color:#FFFFFF;
     font-size: 16px;
@@ -148,12 +142,12 @@ nav ul{
 }
 .conteiner{
     display: flex;
-    /* justify-content: space-evenly; */
+    
     margin-top: 100px;
     width: 100%;
     
     padding-left: 54px;
-    /* background-color: #a0e7fc; */
+    
 }
 
 
